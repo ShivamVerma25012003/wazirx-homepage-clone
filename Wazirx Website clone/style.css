@@ -1,0 +1,185 @@
+
+
+.titlebar{
+    color: white;
+    background-color: black;
+    font-size: 11px;
+    text-align: center;
+    padding: 1px;
+    height: 30px;
+    min-width: 100%;
+    border: 6px solid black;
+    right: 0%;
+    left: 0%;
+    
+}
+.chonch{
+    border-bottom: 1px dashed #fff;
+    margin-left: 10px;
+    color: #fff;
+
+}
+.navbar{
+ background-color: #2d3446;
+
+
+ 
+}
+.navbar-left{
+    margin: 0px;
+
+
+}
+
+
+img{
+    max-width: 140px;
+}
+.navbar-right{
+    position:relative;
+    display: flexbox;
+    height: 72px;
+    left:0;
+    bottom: 0;  
+}
+
+
+
+.abc{
+    position: absolute;
+    background-color: #eac808;
+    border:18px solid #eac808;
+    height:64px;
+    width:140px;
+    right:0;
+    bottom:0;
+    text-align: center;
+    color: black;
+    
+
+
+}
+button{
+    height: 100%;
+    width: 100%;
+}
+
+
+.ab{
+    position: absolute;
+    border:18px solid #2d3446 ;
+    height:64px;
+    width:140px;
+    right:140px;
+    bottom:0;
+    text-align: center;
+    border-left: 0.5px solid black;
+   ;
+}
+
+.a{
+    position: absolute;
+    border:18px solid #2d3446 ;
+    height:64px;
+    width:120px;
+    right:280px;
+    bottom:0;
+    text-align: center;
+    border-left: 0.5px solid black;
+}
+.abcd{
+    position: absolute;
+    border:18px solid #2d3446 ;
+    box-shadow: inset;
+    height:64px;
+    width:160px;
+    right:400px;
+    bottom:0;
+    text-align: center;
+    border-left: 0.5px solid black;
+    text-shadow: #2d3446;
+   
+}
+.homepage{
+    background-image: url('homepage1.png');
+    height:80vh;
+    width:100%;
+    background-size: cover;
+    background-position: center;
+}
+
+.space{
+    border-width: 100%;
+    background-color: #1e2433;
+    color: #1e2433;
+    width: 100%;
+    height: 10vh;
+}
+
+.nextpic4{
+    background-image: url('nextpic4.png');
+    height:90vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.space2{
+    border-width: 100%;
+    background-color: #1e2433;
+    color: #1e2433;
+    width: 100%;
+    height: 10vh;
+}
+.nextpic5{
+    background-image: url('nextpic5.png');
+    height:45vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.space3{
+    border-width: 100%;
+    background-color: #1e2433;
+    color: #1e2433;
+    width: 100%;
+    height: 0%;
+}
+.nextpic6{
+    background-image: url('nextpic6.png');
+    height:50vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.nextpic7{
+    background-image: url('nextpic7.png');
+    height:80vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+.downbar{
+    color: white;
+    background-color: #161d2b;;
+    font-size: 12px;
+    text-align: center;
+    padding: 1px;
+    height: 60px;
+    min-width: 100%;
+    border: 11px solid #161d2b;
+    right: 0%;
+    left: 0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
